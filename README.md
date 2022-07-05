@@ -1,0 +1,1 @@
+# KQL-Kusto_Query_Language
